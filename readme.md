@@ -2,7 +2,7 @@
 
 ##  Integrantes e Papéis
 - **Herbert Vinicius Daris Silva**
-- **Caio Alessandro Fontes**
+- **João Victor**
 
 ---
 
@@ -62,3 +62,89 @@ site/
 
  **Versão do documento:** 1.0  
  **Última atualização:** 14/10/2025  
+
+
+#  Projeto Integrador Parte 2:
+
+1. 
+- Os botões no geral estão funcionando bem, alguns ja levam para outras paginas e outros levam para uma pagina que não existe, pois não foi implementada ainda no código.
+- A logo e alguns botões no header que leva para outras paginas.
+- no meio das paginas, onde fica uns espaços estranhos entre os elementos, de resto ao meu ver está tranquilo.
+- Acredito que a implementação de novas interações na pagina, algo que de a impressão de movimento, talvez alguns componentes em JavaScript.
+
+2. 
+
+2.1
+- Sim, o header é praticamente igual em todas as páginas, mudando só o nome das outras paginas.
+- De certa forma, semelhantemente ao header.
+- Sim, todas as páginas possuem um footer.
+- Varios cards com estruturas parecidas, mas nenhum igual.
+- A estrutura de contato é baseada em outras estruturas de fora do site, mas dentro do site não tem uma igual.
+
+2.2 
+Projeto/
+├── index.html
+├── sobre.html
+├── contato.html
+├── componentes/
+│   ├── header.html
+│   ├── nav.html
+│   ├── footer.html
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+├── js/
+│   └── componentes.js
+├── img/
+└── README.md
+
+3. 
+
+Ainda não tivemos nenhuma interação com JavaScript, apenas na fase 2.3 do projeto. Apesar de ter o arquivo em JavaScript, nós não conseguimos implementar ele dentro do código html.
+
+4. 
+
+4.1
+Verifiquem e implementem os seguintes recursos:
+
+**HTML Semântico:**
+
+- [X]  Usam tags semânticas (**`<header>`**, **`<nav>`**, **`<main>`**, **`<section>`**, **`<article>`**, **`<footer>`**)? <!-- Só não possui <article> -->
+- [X]  Cada página tem apenas um **`<h1>`** (título principal)?
+- [X]  Os títulos seguem hierarquia lógica (h1 → h2 → h3)? <!-- Só há diferenciação na pagina principal -->
+
+**Imagens e Multimídia:**
+
+- [X]  Todas as imagens têm atributo **`alt`** com descrição clara?
+- [X]  Imagens decorativas têm **`alt=""`** (vazio)?
+
+**Formulários:**
+
+- [ ]  Todos os campos têm **`<label>`** associado via atributo **`for`**?
+- [ ]  Campos obrigatórios estão marcados (atributo **`required`** ou indicação visual)?
+- [ ]  Placeholders não substituem labels?
+
+**Navegação por Teclado:**
+
+- [X]  Todos os links e botões são acessíveis via Tab?
+- [ ]  O foco está visível (estilo **`:focus`** no CSS)?
+- [ ]  Há um skip link ("Pular para o conteúdo principal")?
+
+**Contraste e Legibilidade:**
+
+- [ ]  Texto e fundo têm contraste adequado (mínimo 4.5:1)?
+- [ ]  Tamanho de fonte é legível (mínimo 16px para texto corrido)?
+
+4.2
+Segundo o lighthouse, de performance geral saiu uma nota de 81 na media. Ja contando a acessibilidade deu uma nota geral de 88, sendo considerado uma boa média para o inicio do site.
+
+5. 
+
+5.1
+No geral, ao mudar os pixels baseando-se nas diferentes formas de acesso ao site, sendo mobile, tablet e desktop, com isso todos os elementos do site se adaptam da maneira correta e continuam visiveis ao publico alvo que acessa o site. A unica "falha" que acontece no site é o espaçamento lateral de alguns textos, que ficam muito próximos do limite da tela, mas sem afetar muito a leitura.
+
+5.2 ☑️
+
+6. ☑️
+
+7. ☑️
