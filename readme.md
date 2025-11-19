@@ -2,7 +2,7 @@
 
 ##  Integrantes e Papéis
 - **Herbert Vinicius Daris Silva**
-- **João Victor**
+- **João Victor Pinheiro**
 
 ---
 
@@ -120,20 +120,20 @@ Verifiquem e implementem os seguintes recursos:
 
 **Formulários:**
 
-- [ ]  Todos os campos têm **`<label>`** associado via atributo **`for`**?
-- [ ]  Campos obrigatórios estão marcados (atributo **`required`** ou indicação visual)?
-- [ ]  Placeholders não substituem labels?
+- [X]  Todos os campos têm **`<label>`** associado via atributo **`for`**?
+- [ ]  Campos obrigatórios estão marcados (atributo **`required`** ou indicação visual)? (mas possui mensagens de erro caso seja escrito "errado")
+- [X]  Placeholders não substituem labels?
 
 **Navegação por Teclado:**
 
 - [X]  Todos os links e botões são acessíveis via Tab?
-- [ ]  O foco está visível (estilo **`:focus`** no CSS)?
+- [X]  O foco está visível (estilo **`:focus`** no CSS)?
 - [ ]  Há um skip link ("Pular para o conteúdo principal")?
 
 **Contraste e Legibilidade:**
 
 - [ ]  Texto e fundo têm contraste adequado (mínimo 4.5:1)?
-- [ ]  Tamanho de fonte é legível (mínimo 16px para texto corrido)?
+- [X]  Tamanho de fonte é legível (mínimo 16px para texto corrido)?
 
 4.2
 Segundo o lighthouse, de performance geral saiu uma nota de 81 na media. Ja contando a acessibilidade deu uma nota geral de 88, sendo considerado uma boa média para o inicio do site.
@@ -148,3 +148,29 @@ No geral, ao mudar os pixels baseando-se nas diferentes formas de acesso ao site
 6. ☑️
 
 7. ☑️
+
+8. 
+
+Como não possui a rubrica, vou avaliar os quesitos baseados com o que está no Note:
+
+Interatividade: 08/10 -> O site está bem interativo com bastante opções de clique e imagens que levam o usuario a tomar suas decisoes, mas meu pensamento está em sites um pouco maiores, por isso a decisão
+Acessibilidade: 08/10 -> Segundo o lighthouse a acessibilidade do site está quase perfeita, tendo alguns pequenos erros so na parte da diferenciação de cores do fundo da pagina para outros elementos da propria
+Responsividade: 07/10 -> Ao meu ver o site está na média de responsividade, faltando pequenos quesitos para melhorar, que serão adicionados ou modificados no futuro
+Modularidade: 06/10 -> A modularidade dentro do vs code e nos codigos do tipo não estão muito boas, pois apos mudar alguns elementos de pasta tive dificuldade de fazer a religação deles dentro do projeto principal. Mas a modularidade dentro do git está boa.
+Design: 04/10 -> Aqui está a parte em que eu mais falhei, pois imaginei um site de restaurante de uma forma e acabei representando de outra, deixando assim o design meio "estranho".
+
+9. ## Revisão Final e Testes
+
+Antes de considerar esta etapa concluída:
+
+- [X]  Todos os componentes estão modularizados e funcionando?
+- [X]  O site é totalmente responsivo em mobile, tablet e desktop?
+- [X]  Checklist de acessibilidade completo?
+- [X]  Pelo menos uma integração externa implementada?
+- [X]  README.md atualizado com todas as informações?
+- [X]  Rubrica de autoavaliação preenchida com justificativas?
+- [X]  Código limpo, organizado e comentado onde necessário?
+- [X]  Testado em diferentes navegadores (Chrome, Firefox, Safari)?
+- [X]  Console do navegador (F12) sem erros críticos?
+
+Tudo correto, apenas com algumas "virgulas" em acessibilidade
