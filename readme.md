@@ -348,3 +348,18 @@ Verifiquem se o README.md contém todas as seções:
 - [X]  Reflexões individuais e da dupla
 - [X]  Plano de melhorias futuras
 - [X]  Créditos (fontes, ícones, imagens de terceiros) (imagens não são todas, apenas algumas especificas, outras foram geradas e/ou copiadas de sites distintos, retirando assim os produtos diretamente de um "site" que avalia e indica o restaurante "Dona Ju")
+
+7.4 - 
+
+- [X]  Site publicado no GitHub Pages e funcionando perfeitamente
+- [X]  Todas as páginas acessíveis e sem erros
+- [X]  Otimizações de performance aplicadas
+- [X]  Testes em múltiplos navegadores documentados
+- [X]  Testes de responsividade documentados
+- [X]  Dois projetos de colegas avaliados com rubrica
+- [ ]  Feedbacks recebidos de duas duplas
+- [X]  Reflexões individuais e coletivas escritas
+- [X]  README.md completo e profissional
+- [X]  Pasta **`docs/`** organizada com evidências
+- [X]  Código limpo, comentado e organizado
+- [X]  Todos os commits com mensagens descritivas
