@@ -211,8 +211,36 @@ Além disso implementamos as funções no head, dentre elas a de adicionar um "f
 **Para cada tamanho:**
 
 - [ ]  Layout se adapta corretamente?
-- [ ]  Textos estão legíveis?
+- [X]  Textos estão legíveis?
 - [ ]  Imagens redimensionam bem?
-- [ ]  Menu funciona (hamburguer no mobile)?
+- [X]  Menu funciona (hamburguer no mobile)?
 - [ ]  Espaçamentos são adequados?
 - [ ]  Nada quebra ou fica cortado?
+
+4.3
+
+**Verifiquem:**
+
+- Touch funciona bem em botões e links? Sim, está funcionando corretamente
+- Carregamento é rápido? Algumas partes sim, outras demoram um segundo a mais
+- Experiência é boa em conexão 3G/4G? Sim, normalmente
+
+4.4
+
+- Lista de navegadores testados;
+_Opera Gx
+_Chrome
+_Microsoft Edge
+
+- Lista de dispositivos/resoluções testadas;
+_Samsung s24 fe
+_todas resoluções foram testadas
+
+- Problemas encontrados e como foram resolvidos;
+_redimensionamentos não estavam feitos corretamente
+
+- Limitações conhecidas (se houver);
+_ em resoluções muito menores o site não se adapta corretamente
+
+- Links para as pastas com prints de evidências.
+_Estão no repositório
