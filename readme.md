@@ -194,3 +194,25 @@ https://herbert-vinicius.github.io/Projeto-Integrador-Front-end/index.html
 Adicionamos e modificamos a ligação do css com o site, sendo essa mudança a partir da minimização do css proposta pelo site.
 Além disso implementamos as funções no head, dentre elas a de adicionar um "favicon" na guia da pagina.
 
+4.1 - 
+
+**Para cada navegador, verifiquem:**
+
+- [X]  O layout está correto?
+- [X]  Todas as páginas carregam?
+- [X]  Imagens aparecem?
+- [X]  CSS está aplicado corretamente? (deu falta em um unico botao)
+- [ ]  JavaScript funciona (se houver)?
+- [X]  Formulários estão funcionais?
+- [X]  Menu e navegação funcionam?
+
+4.2 - 
+
+**Para cada tamanho:**
+
+- [ ]  Layout se adapta corretamente?
+- [ ]  Textos estão legíveis?
+- [ ]  Imagens redimensionam bem?
+- [ ]  Menu funciona (hamburguer no mobile)?
+- [ ]  Espaçamentos são adequados?
+- [ ]  Nada quebra ou fica cortado?
