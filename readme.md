@@ -178,3 +178,19 @@ Antes de considerar esta etapa concluída:
 - [X]  Console do navegador (F12) sem erros críticos?
 
 Tudo correto, apenas com algumas "virgulas" em acessibilidade
+
+#  Projeto Integrador Parte 3:
+
+2.3 -
+
+Acesso ao site:
+
+https://herbert-vinicius.github.io/Projeto-Integrador-Front-end/index.html
+
+<img src="img/Captura de tela 2025-11-25 220423.png" alt="">
+
+3.3 -
+
+Adicionamos e modificamos a ligação do css com o site, sendo essa mudança a partir da minimização do css proposta pelo site.
+Além disso implementamos as funções no head, dentre elas a de adicionar um "favicon" na guia da pagina.
+
