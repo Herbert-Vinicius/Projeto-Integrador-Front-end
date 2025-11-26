@@ -276,6 +276,18 @@ Herbert: **Aprendizados Técnicos:**
 - Se pudesse voltar no tempo, o que faria diferente?
     mudaria talvez o tema do site e as cores nele presentes
 
+João Victor:
+
+Durante o projeto aprendi a montar páginas usando HTML e CSS de um jeito mais organizado. Também entendi melhor como usar o Git e o GitHub para salvar as versões sem bagunça. O que mais m deu trabalho foi deixar o site responsivo no celular, mas depois de testar bastante fui entendendo como ajustar tudo. Hoje consigo montar uma estrutura de página com bem mais segurança do que no começo.
+
+Aprendizados de Processo
+
+Trabalhar em dupla foi bem positivo. Dividimos as tarefas, conversamos bastante e conseguimos alinhar tudo com tranquilidade. Cada um contribuiu de um jeito diferente e isso ajudou muito. Nos momentos em que algo dava errado, conseguimos rir, ajustar e seguir.
+
+Desafios Enfrentados
+
+O maior desafio foi organizar o layout para funcionar em todas as telas. A gente resolveu com testes e ajustes até tudo ficar no lugar Se pudesse voltar, teria planejado a estrutura das pastas e arquivos desde o início para facilitar o caminho.
+
 6.2 -
 
 **Evolução do Projeto:**
